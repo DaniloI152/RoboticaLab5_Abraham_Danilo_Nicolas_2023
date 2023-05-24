@@ -13,3 +13,12 @@ Se busca desarrolar el modelo cinemático inverso del Phantom X e implementar ru
 • Operar el robot usando ROS a partir de trayectorias generadas en MATLAB o Python.<br>
 
 ## Desarrollo:
+### Cinemática inversa
+
+### Trayectorias
+Para las trayectorias em primer lugar se realizó un dibujo del espacio de trabajo utilizando Dynamixel wizard, se tomaron medidas y luego se trazaron dos circulos con estas dimensiones en Autocad
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab4_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/robot%20general.png" width="500px" >
+</p>
+</div>

@@ -1,5 +1,5 @@
-## Laboratorio 5 Robótica
-### Integrantes: 
+# Laboratorio 5 Robótica
+## Integrantes: 
 - Danilo Enrique Insuasty Delgado.
 - Abraham Másmela Ramirez.
 - Nicolás Prieto Solano.

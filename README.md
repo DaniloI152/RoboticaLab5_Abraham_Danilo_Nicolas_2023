@@ -33,4 +33,7 @@ Para las letras se tomaron los puntos, para el circulo se tomo una posición y a
 <h2>Código</h2>
 <img src="Imagenes/Code/Imports.png" width="500px" >
 Al iniciar el codigo se importan las librerias necesarias, siendo estas rospy para el manejo de ROS, numpy para operaciones numericas, rtb para la creacion del modelo matematico del robot y distintos topics de mensajes para la comunicacion con el manipulador pincher. Luego se crea el modelo de DHstd del robot pincher mediante la libreria std, definiendo las 4 articulaciones que posee el manipulador.
+<img src="Imagenes/Code/c_inversa.png" width="500px" >
+En la cinematica inversa se definen las longitudes del robot junto unas variables auxiliares con valores que se usan repetidamente durante la funcion, los valores de las distintas articulaciones esta dado en terminos de arcotangentes empezando por el valor del angulo de la tercera articulacion, siguiendo el calculo de la segunda y de la primera, acabando finalmente con la cuarta articulacion siendo esta la que no fue resuelta de manera geometrica. Estos valores son devueltos como una lista.
+
 ## Conclusiones

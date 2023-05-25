@@ -28,6 +28,7 @@ Para la obtención de los puntos se colocó la ubicación de los puntos en autoc
 <img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/puntos.png" width="500px" >
 </p>
 </div>
+
 ### Código
 
 ## Conclusiones

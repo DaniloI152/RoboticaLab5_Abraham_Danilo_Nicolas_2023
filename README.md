@@ -30,6 +30,7 @@ Para la obtención de los puntos se colocó la ubicación de los puntos en autoc
 </div>
 Para las letras se tomaron los puntos, para el circulo se tomo una posición y a partir de ella con una función se trazo un circulo aumentando el angulo gradualmente para la
 
-### Código
-
+<h2>Código</h2>
+<img src="Imagenes/Code/Imports.png" width="500px" >
+Al iniciar el codigo se importan las librerias necesarias, siendo estas rospy para el manejo de ROS, numpy para operaciones numericas, rtb para la creacion del modelo matematico del robot y distintos topics de mensajes para la comunicacion con el manipulador pincher. Luego se crea el modelo de DHstd del robot pincher mediante la libreria std, definiendo las 4 articulaciones que posee el manipulador.
 ## Conclusiones

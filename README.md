@@ -51,7 +51,13 @@ Para las letras se tomaron los puntos, para el circulo se tomo una posición y a
 <p>Para el desarrollo de distintas tareas se sigue un procedimiento similar, dentro de una lista de puntos se guarda el recorrido que debe de tener el marcador, con cada uno de estos puntos definido en sus coordenadas X, Y y Z, mandando la lista de los elementos de la trayectoria a la funcion enviarPosicion que se encarga del recorrido, cuando acabe este recorrido, el robot vuelve a la posicion de home mostrando por consola el tiempo de ejecuacion total.
   
 ### Resultados
-
+A continuación se muestra el video del funcionamiento del robot realizando los dibujos seleccionados por el usuario:
+<p align="center">
+  <a href="https://youtu.be/J3g1518Dm50" target="_blank" rel="noreferrer">
+    <img width="500px" src="https://github.com/DaniloI152/RoboticaLab4_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/Video.png"/>
+  </a>
+</p>
+  
 ### Análisis de errores  
   
 ## Conclusiones

@@ -65,4 +65,5 @@ A continuación se muestra el video del funcionamiento del robot realizando los 
 <img src="Imagenes/Resultados/Dimensiones.png" width="500px" >
 <p>Finalmente mediante las longitudes teoricas con las que se planteo el ejercicio se obtiene el error relativo para cada una de las medidas.</p>
 <img src="Imagenes/Resultados/Errores.png" width="500px" >
+De esto se puede ver que para las letras que poseen geometrias mas complejas que el circulo y las lineas de la x el porcentaje de error entre las dimensiones teoricas y las reales es mas alto, sin embargo algo que se ve al comparar el resultado teorico comparado con la imagen del resultado real es que las geometrias curvas como la del circulo no son perfectas, quedando un lado con una longitud mayor a la otra, y para el caso de las x durante la trayectoria esta se curvo.
 ## Conclusiones

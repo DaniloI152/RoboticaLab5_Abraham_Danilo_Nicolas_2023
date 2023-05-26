@@ -59,5 +59,10 @@ A continuación se muestra el video del funcionamiento del robot realizando los 
 </p>
   
 ### Análisis de errores  
-  
+<p>Respecto a los errores entre las dimensiones teoricas y reales de los dibujos realizados por el robot se realiza esto a partir de paint.</p>
+<img src="Imagenes/Resultados/Resultado1.png" width="500px" >
+<p>Con la longitud aproximada de la tabla alrededor de 50 cm se puede hacer un simil entre la longitud de la tabla en pixeles, siendo esta cercana a los 273750 pixels, por lo que cada 10 pixeles de la figura representaran 1.826 mm de longitud real. Con esta relacion y las herramientas de medicion de pixeles que ofrece paint que dan la longitud en la horizontal y la vertical en pixeles, es posible mediante el teorema de pitagoras medir los pixeles de los distintos dibujos hechos por el robot y mediante la relacion de longitudes se puede obtener el valor en milimetros.</p>
+<img src="Imagenes/Resultados/Dimensiones.png" width="500px" >
+<p>Finalmente mediante las longitudes teoricas con las que se planteo el ejercicio se obtiene el error relativo para cada una de las medidas.</p>
+<img src="Imagenes/Resultados/Errores.png" width="500px" >
 ## Conclusiones

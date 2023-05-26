@@ -28,7 +28,13 @@ Para la obtención de los puntos se colocó la ubicación de los puntos en autoc
 <img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/puntos.png" width="500px" >
 </p>
 </div>
-Para las letras se tomaron los puntos, para el circulo se tomo una posición y a partir de ella con una función se trazo un circulo aumentando el angulo gradualmente para la
+Para las letras se tomaron los puntos, para el circulo se tomo una posición y a partir de ella con una función se trazo un circulo aumentando el angulo gradualmente, las figuras se pueden ver en la siguiente imagen
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/Trayectorias/todo.jpg" width="500px" >
+</p>
+</div>
 
 <h2>Código</h2>
 <img src="Imagenes/Code/Imports.png" width="500px" >

@@ -54,7 +54,7 @@ Para las letras se tomaron los puntos, para el circulo se tomo una posición y a
 A continuación se muestra el video del funcionamiento del robot realizando los dibujos seleccionados por el usuario:
 <p align="center">
   <a href="https://youtu.be/J3g1518Dm50" target="_blank" rel="noreferrer">
-    <img width="500px" src="https://github.com/DaniloI152/RoboticaLab4_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/Video.png"/>
+    <img width="500px" src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/videoicon.png"/>
   </a>
 </p>
   

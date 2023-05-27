@@ -48,7 +48,7 @@ Para las letras se tomaron los puntos, para el circulo se tomo una posición y a
 <img src="Imagenes/Code/joint1.png" width="500px" >
 <p>Se establece un posicion de home para el robot, sen envia a esta y luego mediante la funcion enviarPosicion se lleva al punto donde esta el marcador, este se recoje y luego se levanta para volver a la posicion de home. Se inicia un ciclo while que se mantendra activo siempre que el programa siga en ejecucion, pedira una entrada al usuario para definir la funcion a ejecutar, estas opciones son impresas mediante consola.</p>
 <img src="Imagenes/Code/tarea1.png" width="500px" >
-<p>Para el desarrollo de distintas tareas se sigue un procedimiento similar, dentro de una lista de puntos se guarda el recorrido que debe de tener el marcador, con cada uno de estos puntos definido en sus coordenadas X, Y y Z, mandando la lista de los elementos de la trayectoria a la funcion enviarPosicion que se encarga del recorrido, cuando acabe este recorrido, el robot vuelve a la posicion de home mostrando por consola el tiempo de ejecuacion total.
+<p>Para el desarrollo de distintas tareas se sigue un procedimiento similar, primero se muestra una imagen que le ilustrara al usuario la trayectoria teorica que usara el robot. luego dentro de una lista de puntos se guarda el recorrido que debe de tener el marcador, con cada uno de estos puntos definido en sus coordenadas X, Y y Z, mandando la lista de los elementos de la trayectoria a la funcion enviarPosicion que se encarga del recorrido, cuando acabe este recorrido, el robot vuelve a la posicion de home mostrando por consola el tiempo de ejecuacion total.
   
 ### Resultados
 A continuación se muestra el video del funcionamiento del robot realizando los dibujos seleccionados por el usuario:

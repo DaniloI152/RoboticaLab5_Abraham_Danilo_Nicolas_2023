@@ -78,9 +78,13 @@ finalmente se obtiene theta3
 </p>
 </div>
 
+Se vuelve a analizar la vista lateral pero ahora en busca del theta2, para esto se deben hallar los angulos alpha y psi como se muestra en la imagen
 
-
-
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/vista%20lateral%202.PNG" width="400px" >
+</p>
+</div>
 
 
 

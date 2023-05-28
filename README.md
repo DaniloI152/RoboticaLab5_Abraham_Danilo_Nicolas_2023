@@ -14,6 +14,42 @@ Se busca desarrolar el modelo cinemático inverso del Phantom X e implementar ru
 
 ## Desarrollo:
 ### Cinemática inversa
+Se recuerda los parametros y las orientaciones DH del robot pincher
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/dh%20pincher.png" width="500px" >
+</p>
+</div>
+Para facilitar el hallazgo de los diferentes angulos del robot pincher se analiza el vector de la muñeca y no el vector del tool. 
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/pw%20desplazado.png" width="500px" >
+</p>
+</div>
+se reconocer que el vector de la muñeca es el mismo vector tool menos un desplazamiento L en la direccion de a.
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/formula%20pw.PNG" width="150px" >
+</p>
+</div>
+
+Se analiza la vista superior del robot para hallar el angulo 1
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/vosta%20superior.PNG" width="400px" >
+</p>
+</div>
+
+
+
+
+
+
+
+
+
 
 ### Trayectorias
 Para las trayectorias en primer lugar se realizó un dibujo del espacio de trabajo utilizando Dynamixel wizard, se tomaron medidas y luego se trazaron dos circulos con estas dimensiones en Autocad, para determinar donde iban a estar ubicados los puntos de las figuras a realizar. 

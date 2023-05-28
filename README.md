@@ -62,8 +62,13 @@ se halla un pw2 auxiliar para hallar estos angulos mas facilmente
 <img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/formula%20pw2.PNG" width="150px" >
 </p>
 </div>
-dsaasd
+con este pw2 se halla primero el angulo theta3 con la ley del coseno
 
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/ley%20del%20coseno.PNG" width="150px" >
+</p>
+</div>
 
 
 

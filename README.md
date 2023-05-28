@@ -82,7 +82,7 @@ Se vuelve a analizar la vista lateral pero ahora en busca del theta2, para esto 
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/vista%20lateral%202.PNG" width="400px" >
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/vista%20lateral%2021.PNG" width="400px" >
 </p>
 </div>
 

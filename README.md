@@ -66,7 +66,7 @@ con este pw2 se halla primero el angulo theta3 con la ley del coseno
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/ley%20del%20coseno.PNG" width="150px" >
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/ley%20del%20coseno.PNG" width="250px" >
 </p>
 </div>
 

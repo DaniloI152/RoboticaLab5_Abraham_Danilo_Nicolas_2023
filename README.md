@@ -70,6 +70,16 @@ con este pw2 se halla primero el angulo theta3 con la ley del coseno
 </p>
 </div>
 
+finalmente se obtiene theta3
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/theta3.PNG" width="250px" >
+</p>
+</div>
+
+
+
 
 
 

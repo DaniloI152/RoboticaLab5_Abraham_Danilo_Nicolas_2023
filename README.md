@@ -95,9 +95,17 @@ finalmente se obtiene theta2
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/theta2.PNG" width="250px" >
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/theta2.PNG" width="350px" >
 </p>
 </div>
+
+el angulo thetha4 se obtiene de la siguiente forma
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/theta4.PNG" width="100px" >
+</p>
+</div>
+
 
 
 

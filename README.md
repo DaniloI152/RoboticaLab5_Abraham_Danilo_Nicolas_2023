@@ -56,12 +56,14 @@ Se analiza la vista lateral para hallar los angulos theta2 y theta3
 </p>
 </div>
 
-
+se halla un pw2 auxiliar para hallar estos angulos mas facilmente
 <div>
 <p style = 'text-align:center;' align="center">
-<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/formula%20theta1.PNG" width="150px" >
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/formula%20pw2.PNG" width="150px" >
 </p>
 </div>
+
+
 
 
 

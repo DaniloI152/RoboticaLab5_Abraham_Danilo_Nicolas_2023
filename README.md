@@ -48,6 +48,25 @@ Se analiza la vista superior del robot para hallar el angulo 1
 </p>
 </div>
 
+Se analiza la vista lateral para hallar los angulos theta2 y theta3
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/vista%20lateral%201.PNG" width="400px" >
+</p>
+</div>
+
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/formula%20theta1.PNG" width="150px" >
+</p>
+</div>
+
+
+
+
+
 
 
 

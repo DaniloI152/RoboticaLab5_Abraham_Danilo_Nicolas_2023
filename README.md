@@ -91,6 +91,14 @@ Se vuelve a analizar la vista lateral pero ahora en busca del theta2, para esto 
 <img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/desarrollo%20theta2.PNG" width="250px" >
 </p>
 </div>
+finalmente se obtiene theta2
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/DaniloI152/RoboticaLab5_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/theta2.PNG" width="250px" >
+</p>
+</div>
+
 
 
 

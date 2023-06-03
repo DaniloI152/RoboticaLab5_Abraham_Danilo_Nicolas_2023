@@ -176,4 +176,8 @@ A continuación se muestra el video del funcionamiento del robot realizando los 
 <img src="Imagenes/Resultados/Dimensiones.png" width="500px" >
 <p>Finalmente mediante las longitudes teoricas con las que se planteo el ejercicio se obtiene el error relativo para cada una de las medidas.</p>
 <img src="Imagenes/Resultados/Errores.png" width="500px" >
-De esto se puede ver que para las letras que poseen geometrias mas complejas que el circulo y las lineas de la x el porcentaje de error entre las dimensiones teoricas y las reales es mas alto, sin embargo algo que se ve al comparar el resultado teorico comparado con la imagen del resultado real es que las geometrias curvas como la del circulo no son perfectas, quedando un lado con una longitud mayor a la otra, <h2>Conclusiones</h2>
+De esto se puede ver que para las letras que poseen geometrias mas complejas que el circulo y las lineas de la x el porcentaje de error entre las dimensiones teoricas y las reales es mas alto, sin embargo algo que se ve al comparar el resultado teorico comparado con la imagen del resultado real es que las geometrias curvas como la del circulo no son perfectas, quedando un lado con una longitud mayor a la otra, 
+<h2>Conclusiones</h2>
+
+• La cinemática inversa permite lograr trayectorias complejas en el robot Pincher mediante ecuaciones simples, de tal forma que podemos  diseñar movimientos precisos y controlados de manera eficiente, aunque se debe tener en cuenta que la estructura del Pincher no suprime algunas vibraciones provocadas por los movimientos.
+
